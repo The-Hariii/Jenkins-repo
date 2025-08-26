@@ -1,2 +1,1 @@
-echo "welcome to gitcode Jenkins"
-echo "Poll scm"
+new ci
